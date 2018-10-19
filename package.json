@@ -1,0 +1,24 @@
+{
+  "name": "ember-cli-deploy-html-revision-tagging",
+  "version": "0.0.1",
+  "description": "An ember-cli-deploy plugin to tag ember-cli-deploy-revision-data generated tag to your html file",
+  "directories": {
+    "doc": "doc",
+    "test": "tests"
+  },
+  "repository": "https://github.com/DanielCMS/ember-cli-deploy-html-revision-tagging",
+  "engines": {
+    "node": ">= 4"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "ember-cli": "^3.5.0"
+  },
+  "keywords": [
+    "ember-addon",
+    "ember-cli-deploy-plugin"
+  ],
+  "dependencies": {
+    "ember-cli-deploy-plugin": "^0.2.9"
+  }
+}
